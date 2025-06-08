@@ -4,7 +4,7 @@ slider3: -3 <-12,11,1> Min Gain (dB)
 slider4: 3 <-11,12,1> Max Gain (dB)
 slider5: 50 <0,100,1> Idle Position (%)
 
-
+blablabla
 @init
 rms_target = 10^(slider1/20);
 speed_ms = slider2;
