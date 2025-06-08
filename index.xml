@@ -12,7 +12,7 @@
 
   <category name="live">
     <reapack name="Daniel_Live Vocal Rider" type="effect" desc="Daniel_Live Vocal Rider">
-     <version name="1.0" author="Daniel" time="08-06-2025">
+     <version name="1.1" author="Daniel" time="08-06-2025">
         <source main="main">https://github.com/Daniel-Kharrat/example-repos/raw/refs/heads/main/my%20effects/live/Daniel_Live%20Vocal%20Rider</source>
       </version>
     </reapack>
