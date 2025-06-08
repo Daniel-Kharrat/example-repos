@@ -5,7 +5,7 @@
   <!-- Scripts -->
   <category name="utility">
     <reapack name="Daniel_Double speed playback.lua" type="script" desc="Daniel_Double speed playback.lua">
-     <version name="1.0" author="Daniel" time="08-06-2025">
+     <version name="1.1" author="Daniel" time="08-06-2025">
         <source main="main">https://github.com/Daniel-Kharrat/example-repos/raw/refs/heads/main/my%20scripts/Daniel_Double%20speed%20playback.lua</source>
       </version>
     </reapack>
